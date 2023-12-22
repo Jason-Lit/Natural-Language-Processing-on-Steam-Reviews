@@ -21,7 +21,7 @@ The attempt to fine-tune the GPT-2 model using CUDA acceleration resulted in une
 The key code files for this branch are:
 
 1. **CUDA_GPT_Train.ipynb:**
-   - This notebook contains the code for training the GPT-2 model using CUDA acceleration and TensorFlow. You can explore the steps taken during the fine-tuning process and the parameters used in this notebook.
+   - The `CUDA_GPT_Train.ipynb` notebook contains the code for training the GPT-2 model using CUDA acceleration and TensorFlow. You can explore the steps taken during the fine-tuning process and the parameters used in this notebook.
 
 2. **Epic_Fail.ipynb:**
    - The `Epic_Fail.ipynb` notebook is dedicated to testing the fine-tuned GPT-2 model. It details the evaluation process and showcases the encountered issues, particularly related to catastrophic forgetting.
